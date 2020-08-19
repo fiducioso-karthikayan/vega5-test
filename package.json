@@ -1,0 +1,12 @@
+{
+  "name": "vega5-test",
+  "private": true,
+  "main": "./index.js",
+  "scripts": {
+    "test": "node ./index.js"
+  },
+  "dependencies": {
+    "vega": "^5.14.0",
+    "wait.for": "^0.6.6"
+  }
+}
